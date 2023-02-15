@@ -1,4 +1,3 @@
-// const fs = require("fs");
 const express = require("express");
 let noteData = require("./db/db.json");
 const path = require("path");
@@ -45,7 +44,6 @@ app.post("/api/notes", (req, res) => {
     if (err) throw err;
     res.json(noteData);
   });
-  // Use json.stringify
 });
 
 // Wildcard route to index.html
