@@ -26,7 +26,7 @@ Enter relevant text into the fields and click the save button that appears.
 
 ![Screenshot](public/assets/images/duly-noted002.png)
 
-[Click here to view demonstration video](https://drive.google.com/file/d/1kEfrdvSlSwpeIjFeNdUBTe7-607x1ssY/view)
+[Click here to view deployed app on Heroku](https://gentle-temple-86627.herokuapp.com/)
 
 ## License
 
